@@ -25,8 +25,6 @@ update 2023.7.6: Hong Kong IP doesn’t work either
 
 ## Most people fix their problems with the following quick fixes:
 
-In order to use the Chinese user interface, please clear the browser cache and cookies first, and then visit
-
 - [Frequently Asked Questions 常见问题自查手册 (FAQ) #8](https://github.com/haozi/New-Bing-Anywhere/issues/8).
 - Change a Microsoft account.
 - Whitelist bing.com if you use an Adblocker or a VPN.
