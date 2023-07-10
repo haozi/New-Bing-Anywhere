@@ -8,7 +8,7 @@ Permissions are used sparingly by this extension. However, as new features are a
 - Change a Microsoft account.
 - Whitelist bing.com if you use an Adblocker or a VPN.
 - Opera Users, [Turn on "Allow access to search page results"](https://github.com/haozi/New-Bing-Anywhere/issues/58#issuecomment-1592207565)
-- Brave Users, you need to allow third-party cookies from '\*.google.xxx'
+- Brave Users, you need to allow third-party cookies from '\*.google.xxx'. Brave has a bug,you have to disable and enable erery time on launch [https://github.com/haozi/New-Bing-Anywhere/issues/76#issuecomment-1628103920](https://github.com/haozi/New-Bing-Anywhere/issues/76#issuecomment-1628103920)
 - Firefox Users, you must use version 110 or up! Please update your browser.
 - Or sometimes just refresh a couple of times! Microsoft rushed their release, and it's still buggy.
 
@@ -41,7 +41,7 @@ Permissions are used sparingly by this extension. However, as new features are a
 
 - Opera 用户，[开启“允许访问搜索页面结果”](https://github.com/haozi/New-Bing-Anywhere/issues/58#issuecomment-1592207565)
 
-- 勇敢的用户，您需要允许来自“\*.google.xxx”的第三方 cookie
+- Brave 用户，您需要允许来自“\*.google.xxx”的第三方 cookie, Brave has a bug,you have to disable and enable erery time on launch [https://github.com/haozi/New-Bing-Anywhere/issues/76#issuecomment-1628103920](https://github.com/haozi/New-Bing-Anywhere/issues/76#issuecomment-1628103920)
 
 - Firefox 用户，您必须使用 110 或更高版本！ 请更新您的浏览器。
 
