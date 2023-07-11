@@ -320,6 +320,7 @@ export default () => {
                   }
                 } else if (config.triggerMode === 'Always') {
                   if (content.text) {
+                    console.log(1111111, content.text)
                     return <Markdown children={content.text} />
                   }
                 }
